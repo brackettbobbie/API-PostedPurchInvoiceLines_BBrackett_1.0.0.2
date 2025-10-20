@@ -1,0 +1,25 @@
+{
+  "id": "9c37ad6c-2afb-4c83-a91c-ab9e2f5906fd",
+  "name": "API-PostedPurchInvoiceLines",
+  "publisher": "BBrackett",
+  "version": "1.0.0.2",
+  "runtime": "12.0",
+  "target": "Cloud",
+  "application": "23.0.0.0",
+  "platform": "24.0.0.0",
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true,
+    "applyToDevExtension": false
+  },
+  "features": [
+    "NoImplicitWith"
+  ],
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ]
+}
